@@ -17,3 +17,6 @@ finally run pca_model_for_centers for compressing 2d returned barycenters result
 some of the result files like npz and pkl are already in the folder
 
 you can put the results elsewhere in case being overwritten when testing the code
+
+contributor:
+[@weixiang0470](https://github.com/weixiang0470)
